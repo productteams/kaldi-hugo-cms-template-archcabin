@@ -5,9 +5,8 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
+  Arch Cabins is the ultimate spot for lovers of affordable housing who want to learn about how to change their lives and support the farmers that grew it. We take small home construction,
+  design and assembly seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
   blurbs:
@@ -45,11 +44,11 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 main:
-  heading: Great coffee with no compromises
+  heading: Great Housing with few compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
+    We hold our chouses to the highest standards from the first screw to the last shingle.
+    That’s why we’re meticulous and transparent about each step of the ArchCabin's
+    journey. We personally visit each farm that supplies the wood used to make Archcabins to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
@@ -63,38 +62,37 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      The first night I slept in an ArchCabin I was amazed at how spacious it was, I couldn’t even believe I had paid for all       that space for all those years and not been travelling.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
+      ArchCabin is the place to go if you want the best quality small homes. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to make great housing a part of your life. Choose one of our
+    monthly subscription plans to receive great house at your doorstep.
+    Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the single person.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'Great for couples who need a little more room'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Want more room? Try our custom plan
       items:
         - Whatever you need
-        - Green or roasted beans
+        - 1,2 or 3 ArchCabins linked together
         - Unlimited varieties
       plan: Custom
       price: '?'
