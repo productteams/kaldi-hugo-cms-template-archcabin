@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Our Cabins
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
@@ -12,16 +12,15 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        We sell archCabins that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
+        variety of cabin sizes that are made with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
+        We offer a small, but carefully curated selection of gear and
+        tools for every taste and experience level. No matter if you build your own or just bought your first assembled               ArchCabin, you’ll find a gadget
         to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
@@ -32,16 +31,15 @@ intro:
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
+        We believe that good housing has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
+        space where you can hang out with fellow humans and learn about
+        home assembly techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
+    ArchCain is the ultimate spot for humans who want to live within their means and support the builders who make these cabins and the farmers who grow the wood for them. We take living space
+    production, design and assembly seriously and we’re glad to pass that
     knowledge to anyone.
 main:
   heading: Great Housing with few compromises
