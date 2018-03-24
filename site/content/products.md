@@ -12,30 +12,26 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We sell archCabins that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
+        We sell ARCHcabins. We’re proud to offer a
         variety of cabin sizes that are made with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of gear and
-        tools for every taste and experience level. No matter if you build your own or just bought your first assembled               ArchCabin, you’ll find a gadget
+        tools for every experience level to enable the rapid assembly/disassembly of our ARCHcabins. No matter if you build your own or just bought your first assembled ArchCabin from a local dealer, you’ll find a gadget
         to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        Beauty is to behold. Go on our virtual tour to see just how beautiful small living can be. You can schedule a custom 1-on-1 consultation with our builders
+        to learn anything you want to know about ARCHcabins free of charge.
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
         We believe that good housing has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow humans and learn about
-        home assembly techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        home assembly techniques. All of the artwork on display there is from our owners. The full price you pay goes to the artist.
   heading: What we offer
   description: >
     ArchCain is the ultimate spot for humans who want to live within their means and support the builders who make these cabins and the farmers who grow the wood for them. We take living space
